@@ -17,4 +17,4 @@ Portanto, o CEO solicitou a realização de um trabalho de **Análise Explorató
 - **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?**
 
 
-O desenvolvimento da solução com as resposta estão no notebook.
+O desenvolvimento da solução com as respostas estão no notebook.
