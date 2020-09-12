@@ -1,4 +1,4 @@
-# O Desáfio da House Rocket Company
+# O Desafio da House Rocket Company
 
 A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
 
