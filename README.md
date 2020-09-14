@@ -17,4 +17,20 @@ Portanto, o CEO solicitou a realização de um trabalho de **Análise Explorató
 - **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?**
 
 
-O desenvolvimento da solução com as respostas estão no notebook.
+# Passos do Projeto
+
+- Descrição dos Dados
+
+- Featuring Engineering
+
+- Filtro de Variáveis
+
+- Análise Exploratória de Dados
+
+- Respondendo as Perguntas
+
+- Conclusão
+
+
+
+O desenvolvimento da solução com as respostas estão no [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
