@@ -36,4 +36,4 @@ Este trabalho estará utilizando o conjunto de dados disponível neste [link](ht
 
 - Conclusão
 
-O desenvolvimento da solução estão no [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
+O desenvolvimento da solução está no [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
