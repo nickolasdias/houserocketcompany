@@ -1,4 +1,4 @@
-# O Desafio da House Rocket Company
+# O Desafio da House Rocket Company - Projeto de Análise Exploratória de Dados
 
 A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
 
@@ -17,6 +17,11 @@ Portanto, o CEO solicitou a realização de um trabalho de **Análise Explorató
 - **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?**
 
 
+# Apresentando os dados
+
+Este trabalho estará utilizando o conjunto de dados disponível neste [link](https://www.kaggle.com/harlfoxem/housesalesprediction).
+
+
 # Passos do Projeto
 
 - Descrição dos Dados
@@ -31,6 +36,4 @@ Portanto, o CEO solicitou a realização de um trabalho de **Análise Explorató
 
 - Conclusão
 
-
-
-O desenvolvimento da solução com as respostas estão no [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
+O desenvolvimento da solução estão no [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
