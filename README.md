@@ -1,39 +1,39 @@
-# O Desafio da House Rocket Company - Projeto de Análise Exploratória de Dados
+# House Rocket Company Challenge - Exploratory Data Analyses Project
 
-A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
+House Rocket is a digital platform that has as its business model, the purchase and sale of property using technology.
 
-A empresa, por meio do seu CEO, gostaria de maximizar sua receita encontrando boas oportunidades de negócio no Condado King, Washington, Estados Unidos. Para isso, a sua principal estratégia é comprar imóveis em boas condições e ótimas localizações, com preços abaixo do mercado, para posteriormente revendê-las à preços mais atrativos visando o lucro. Quanto maior a diferença entre a compra e venda, maior o lucro da empresa e assim maior sua receita.
+The company, through its CEO, would like to maximize its revenue by finding good business opportunities in King County, Washington, USA. To do this, its main strategy is to buy properties in good condition and great locations, with below market prices, and then resell them at more attractive prices for profit. The greater the difference between buying and selling, the greater the company's profit and thus its revenue.
 
-Entretanto, as casas possuem caracteristicas que as tornam mais ou menos atrativas aos compradores e vendedores. Por exemplo, a localização e a área interna do imóvel.
+However, the houses have characteristics that make them more or less attractive to buyers and sellers. For example, the location and the internal area of the property.
 
-Portanto, o CEO solicitou a realização de um trabalho de **Análise Exploratória de Dados** para responder três perguntas fundamentais para uma futura tomada de decisão. São elas:
+Therefore, the CEO has requested a  Exploratory Data Analysis** work to answer three key questions for future decision making. These are them:
 
-- **Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?**
-
-
-- **Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?**
+- **Which houses should the CEO of House Rocket buy and at what price ?**
 
 
-- **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?**
+- **Once the house is in the company's possession, what is the best time to sell it and what would be the sale price ?**
 
 
-# Apresentando os dados
-
-Este trabalho estará utilizando o conjunto de dados disponível neste [link](https://www.kaggle.com/harlfoxem/housesalesprediction).
+- **Does House Rocket have to reform its houses to increase the selling price ? What would be the suggestions for change ?**
 
 
-# Passos do Projeto
+# Presenting the data
 
-- Descrição dos Dados
+This work will be using the data set available in this [link](https://www.kaggle.com/harlfoxem/housesalesprediction).
+
+
+# Steps of the Project
+
+- Data Descriptions
 
 - Featuring Engineering
 
 - Filtro de Variáveis
 
-- Análise Exploratória de Dados
+- Exploratory Data Analysys
 
-- Respondendo as Perguntas
+- Answering Questions
 
-- Conclusão
+- Conclusion
 
-O desenvolvimento da solução está no [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
+The development of the solution is in the [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
