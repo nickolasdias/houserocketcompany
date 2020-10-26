@@ -28,7 +28,7 @@ This work will be using the data set available in this [link](https://www.kaggle
 
 - Featuring Engineering
 
-- Filtro de Variáveis
+- Variable Filter
 
 - Exploratory Data Analysys
 
