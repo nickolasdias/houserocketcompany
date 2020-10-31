@@ -36,4 +36,4 @@ This work will be using the data set available in this [link](https://www.kaggle
 
 - Conclusion
 
-The development of the solution is in the [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket.ipynb).
+The development of the solution is in the [notebook](https://github.com/nickolasdias/houserocketcompany/blob/master/house_rocket_original.ipynb).
